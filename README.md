@@ -1,4 +1,4 @@
-# 📈 Matplotlib Learning Notes
+# 📈 Matplotlib Notes
 
 This repository contains my **personal notes and practice work for Matplotlib**, created while learning data visualization using Python.  
 It documents my **step-by-step learning journey**, from basic plots to more customized and informative visualizations.
@@ -88,3 +88,4 @@ Feel free to:
 - Use it for learning and practice
 
 Happy Visualizing! 📊🚀
+
